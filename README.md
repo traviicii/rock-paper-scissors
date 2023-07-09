@@ -7,7 +7,7 @@ It's made with Python 🐍 and simply runs in the terminal. No fancy UI.
 ## But it's actually fun, I promise!
 
 In this version of the game, you'll be playing against an A.I. with a superiority complex. Each game consists of 2 rounds, or best 2/3. You can play 
-against the A.I. as many times as you like and the total wins for each player are tallied and the ultimate winner is displayed once you choose to give up- I mean, quit the game.
+against the A.I. as many times as you like. Once you choose to give up- I mean, quit the game, the total wins for each player are tallied and the ultimate winner is displayed.
 
 ## To Play on your Machine
 
